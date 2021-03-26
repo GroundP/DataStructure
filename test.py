@@ -14,7 +14,6 @@ def get_left_child_index(complete_binary_tree, index):
     else:
         return Idx
 
-
 def get_right_child_index(complete_binary_tree, index):
     """배열로 구현한 완전 이진 트리에서 index번째 노드의 오른쪽 자식 노드의 인덱스를 리턴하는 함수"""
     Idx = index * 2 + 1
@@ -23,7 +22,7 @@ def get_right_child_index(complete_binary_tree, index):
     else:
         return Idx
 
-
+# asdas
 # 실행 코드
 root_node_index = 1  # root 노드
 
