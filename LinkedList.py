@@ -5,6 +5,8 @@ class Node:
         self.data = data
         self.next = None
 
+#djasidjasiodjio
+
 class LinkedList:
     """링크드 리스트 클래스"""
 
