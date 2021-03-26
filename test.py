@@ -7,7 +7,6 @@ def get_parent_index(complete_binary_tree, index):
         return Idx
     # 코드를 쓰세요
 
-
 def get_left_child_index(complete_binary_tree, index):
     """배열로 구현한 완전 이진 트리에서 index번째 노드의 왼쪽 자식 노드의 인덱스를 리턴하는 함수"""
     Idx = index * 2
