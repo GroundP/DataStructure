@@ -16,6 +16,7 @@ node_C = Node(4)
 node_D = Node(7)
 node_E = Node(9)
 
+# Test
 # B와 C를 root 노드의 자식으로 지정
 node_root.left = node_B
 node_root.right = node_C
