@@ -5,6 +5,7 @@ class Node:
         self.data = data
         self.next = None
 
+#djasidjasiodjio
 #test test
 		
 class LinkedList:
